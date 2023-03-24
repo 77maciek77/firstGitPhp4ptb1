@@ -19,8 +19,8 @@
     <?php require_once "../Utils/CMS.php";?>
     <table>
         <tr>
-            <th>id</th>
-            <th>login</th>
+            <th>Id</th>
+            <th>Login</th>
             <th><?= CMS::getContent("password") ?></th>
             <th><?= CMS::getContent("name") ?></th>
             <th><?= CMS::getContent("lname") ?></th>
